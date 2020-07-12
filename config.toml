@@ -59,7 +59,7 @@ disqusShortname = "blog-darshan-website"
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/itachgenjutsu"
+    url = "https://twitter.com/confusedwd"
 
   [[params.social]]
     name = "instagram"
